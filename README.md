@@ -1,11 +1,6 @@
-<details>
-  <summary>testttttttttary</summary>
-  <img alt="Testtttttt" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/cloudera_logo.jpg">
-</details>
-
-
-
-
+<p>
+<img src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/cloudera_logo.jpg" width="220" height="240" />
+</p>
 
 
 <img align="left" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/cloudera_logo.jpg"  height="80" alt="Cloudera">
