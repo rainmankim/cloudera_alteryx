@@ -1,3 +1,7 @@
+<kbd><img src="https://cloud.githubusercontent.com/assets/4705188/20508600/ac62b414-b030-11e6-9dfe-691a6a3250fd.png" alt="image">
+</kbd>
+
+
 <img align="left" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/cloudera_logo.jpg"  height="80" alt="Cloudera">
 <img align="right" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/alteryx_logo.png"  height="80" alt="Alteryx">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
