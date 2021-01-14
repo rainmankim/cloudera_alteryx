@@ -19,6 +19,7 @@ In this documenteation, I will install Impala ODBC connector.
 https://www.cloudera.com/downloads/connectors/impala/odbc/2-6-0.html
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 <img align="left" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/cloudera_hue.png" alt="Cloudera Hue">
+<img align="left" src="https://raw.githubusercontent.com/rainmankim/cloudera_alteryx/master/images/cloudera_hue.png" alt="Cloudera Hue2">
 
 
 
