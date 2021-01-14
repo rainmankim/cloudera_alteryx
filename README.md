@@ -1,5 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/62319355/104537209-7c71b380-5654-11eb-93db-047330b1ae3d.jpg"  height="80" alt="Cloudera">
-<img align="right" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/alteryx_logo.png"  height="80" alt="Alteryx">
+<img align="right" src="https://user-images.githubusercontent.com/62319355/104537326-b9d64100-5654-11eb-89f3-c0ee9be8b1ec.png"  height="80" alt="Alteryx">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
 ## Cloudera HIVE/Impala-Alteryx connection 
