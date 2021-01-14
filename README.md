@@ -30,7 +30,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 ## Next let us connect to Alteryx
-<img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/alteryx_impala.PNG"   alt="altery impala">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/104538740-674a5400-5657-11eb-9a0b-d6a6d5b8ec9d.png"   alt="altery impala">
 
 ## You will see all relevant schema once you have successfully connected
 <img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/alteryx_impala_schema.PNG"   alt="table">
