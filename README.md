@@ -7,7 +7,7 @@
 Hi,  my name is Ray Kim. 
 THis documentation will show how you can establish connection between Cloudera Datalake and Alteryx.
 
-Connecting Alteryx to Clouder has many advantages:
+Connecting Alteryx to Cloudera has many advantages:
 - Can extract more than 100,000 rows
 - Can easily cleanse and prep data
 
