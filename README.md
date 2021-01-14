@@ -39,8 +39,8 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 ```
 https://github.com/rainmankim/tableau_cloudera
 ```
-<img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/tableau_impala.PNG"   alt="table">
-
+<img align="center" src="https://user-images.githubusercontent.com/62319355/103265908-aaff5580-49e9-11eb-9871-87d91f0281ec.png"   alt="tableau_cloudera_1">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/103265296-40014f00-49e8-11eb-9654-9dbeaa2379ad.png"   alt="tableau_cloudera_2">
 
 
 
