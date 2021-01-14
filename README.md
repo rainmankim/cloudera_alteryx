@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/cloudera_logo.jpg"  height="80" alt="Cloudera">
+<img align="left" src="https://user-images.githubusercontent.com/62319355/104537209-7c71b380-5654-11eb-93db-047330b1ae3d.jpg"  height="80" alt="Cloudera">
 <img align="right" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/alteryx_logo.png"  height="80" alt="Alteryx">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
