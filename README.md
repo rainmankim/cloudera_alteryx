@@ -27,6 +27,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 ## Please enable SSL Certifcate as shown below.
 <img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/ODBC_impala_SSL.PNG"   alt="SSL">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/104538259-7e3c7680-5656-11eb-84c0-0bb1ded086e1.png"   alt="SSL">
 
 
 ## Next let us connect to Alteryx
