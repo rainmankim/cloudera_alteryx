@@ -33,7 +33,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 <img align="center" src="https://user-images.githubusercontent.com/62319355/104538740-674a5400-5657-11eb-9a0b-d6a6d5b8ec9d.png"   alt="altery impala">
 
 ## You will see all relevant schema once you have successfully connected
-<img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/alteryx_impala_schema.PNG"   alt="table">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/104538835-9a8ce300-5657-11eb-8f55-bd8dad769302.png"   alt="table">
 
 ## (Additional) Tableau Connection with Impala
 ```
