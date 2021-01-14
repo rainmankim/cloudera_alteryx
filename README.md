@@ -23,7 +23,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 ## You can establish connection as shown below  :thumbsup:
-<img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/ODBC_impala.PNG"   alt="ODBC impala">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/104537551-22252280-5655-11eb-9ea0-4de6e27e0114.png"   alt="ODBC impala">
 
 ## Please enable SSL Certifcate as shown below.
 <img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/ODBC_impala_SSL.PNG"   alt="SSL">
