@@ -37,7 +37,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 ## (Additional) Tableau Connection with Impala
 ```
-As on my side, I can establish connection but it seems Tableau cannot read Tables.
+AAAAAAAAAAA
 ```
 <img align="center" src="https://github.com/rainmankim/cloudera_alteryx/blob/master/images/tableau_impala.PNG"   alt="table">
 
